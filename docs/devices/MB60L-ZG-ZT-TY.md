@@ -23,7 +23,8 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+## Pairing
+Triple-click SET button, then long-press SET until rapid flashing.
 
 <!-- Notes END: Do not edit below this line -->
 
